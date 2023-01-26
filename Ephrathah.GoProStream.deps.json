@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ephrathah.GoProStream/1.0.0": {
+        "dependencies": {
+          "VideoLAN.LibVLC.Windows": "3.0.18",
+          "Vlc.DotNet.Wpf": "1.0.0"
+        },
+        "runtime": {
+          "Ephrathah.GoProStream.dll": {}
+        }
+      },
+      "VideoLAN.LibVLC.Windows/3.0.18": {},
+      "Vlc.DotNet.Core/1.0.0": {
+        "dependencies": {
+          "Vlc.DotNet.Core.Interops": "1.0.0"
+        },
+        "runtime": {
+          "Vlc.DotNet.Core.dll": {}
+        }
+      },
+      "Vlc.DotNet.Core.Interops/1.0.0": {
+        "runtime": {
+          "Vlc.DotNet.Core.Interops.dll": {}
+        }
+      },
+      "Vlc.DotNet.Wpf/1.0.0": {
+        "dependencies": {
+          "Vlc.DotNet.Core": "1.0.0",
+          "Vlc.DotNet.Core.Interops": "1.0.0"
+        },
+        "runtime": {
+          "Vlc.DotNet.Wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ephrathah.GoProStream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VideoLAN.LibVLC.Windows/3.0.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A7Fg86aSziadDxB4F8AWN6kHNgEYJqerdPG9SflPM0GDO9m/O2jnc60mfSa52xOh5EC4U62W0y4kdyw+FgB2iQ==",
+      "path": "videolan.libvlc.windows/3.0.18",
+      "hashPath": "videolan.libvlc.windows.3.0.18.nupkg.sha512"
+    },
+    "Vlc.DotNet.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vlc.DotNet.Core.Interops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vlc.DotNet.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
