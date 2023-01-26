@@ -1,0 +1,121 @@
+31/12 00:43:49.3  INFO   17432 Application.cpp[134]         MonaServer v2.750
+31/12 00:43:49.3  WARN   19536 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+31/12 00:43:49.4  NOTE   19536 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+31/12 00:43:49.4  NOTE   19536 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+31/12 00:43:49.4  NOTE   19536 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+31/12 00:43:49.4  NOTE   19536 Protocols.h[82]              WS server started on 0.0.0.0:80
+31/12 00:46:05.7  INFO   14632 Application.cpp[134]         MonaServer v2.750
+31/12 00:46:05.7  WARN   19936 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+31/12 00:46:05.7  ERROR  19936 Protocols.h[137]             RTMFP server, Address already in use (address=0.0.0.0:1935)
+31/12 00:46:05.7  NOTE   19936 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+31/12 00:46:05.7  NOTE   19936 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+31/12 00:46:05.7  NOTE   19936 Protocols.h[82]              WS server started on 0.0.0.0:80
+31/12 00:46:29.7  INFO   16944 Application.cpp[134]         MonaServer v2.750
+31/12 00:46:29.7  INFO   16944 Application.cpp[136]         Load configuration file MonaServer.ini
+31/12 00:46:29.7  WARN   17000 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+31/12 00:46:29.7  NOTE   17000 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+31/12 00:46:29.7  NOTE   17000 Protocols.h[82]              RTMP server started on 192.168.1.126:1935
+31/12 00:46:29.7  NOTE   17000 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+31/12 00:46:29.7  NOTE   17000 Protocols.h[82]              WS server started on 0.0.0.0:80
+31/12 00:46:47.6  INFO   17000 Publication.cpp[128]         Publication  {append: false, duration: 0, segments: 0, server: mona} started
+31/12 00:46:47.6  INFO   17000 Publication.cpp[424]         Write  publication properties {append: false, audiocodecid: 10, audiodatarate: 46.875, audiosamplerate: 44100, audiosamplesize: 16, createtime: 1672427807701, duration: 0, encoder: Lavf58.20.100, filesize: 0, height: 640, segments: 0, server: mona, stereo: false, videocodecid: 7, videodatarate: 488.28125, width: 360}
+31/12 00:46:47.7  INFO   17000 Server.cpp[119]              1 clients
+31/12 00:46:59.0  INFO   17000 Publication.cpp[205]         Publication  stopped
+31/12 00:46:59.7  INFO   17000 Server.cpp[119]              0 clients
+31/12 00:47:15.2  INFO   26512 Application.cpp[134]         MonaServer v2.750
+31/12 00:47:15.2  INFO   26512 Application.cpp[136]         Load configuration file MonaServer.ini
+31/12 00:47:15.2  WARN   23160 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+31/12 00:47:15.2  NOTE   23160 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+31/12 00:47:15.2  NOTE   23160 Protocols.h[82]              RTMP server started on 192.168.1.126:1935
+31/12 00:47:15.2  NOTE   23160 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+31/12 00:47:15.2  NOTE   23160 Protocols.h[82]              WS server started on 0.0.0.0:80
+31/12 00:47:27.9  INFO   23160 Publication.cpp[128]         Publication  {append: false, duration: 0, segments: 0, server: mona} started
+31/12 00:47:28.0  INFO   23160 Publication.cpp[424]         Write  publication properties {append: false, audiocodecid: 10, audiodatarate: 46.875, audiosamplerate: 44100, audiosamplesize: 16, createtime: 1672427848019, duration: 0, encoder: Lavf58.20.100, filesize: 0, height: 640, segments: 0, server: mona, stereo: false, videocodecid: 7, videodatarate: 488.28125, width: 360}
+31/12 00:47:29.2  INFO   23160 Server.cpp[119]              1 clients
+31/12 00:47:34.7  INFO   23160 Publication.cpp[205]         Publication  stopped
+31/12 00:47:35.2  INFO   23160 Server.cpp[119]              0 clients
+31/12 11:23:34.0  INFO   21480 Application.cpp[134]         MonaServer v2.750
+31/12 11:23:34.2  INFO   21480 Application.cpp[136]         Load configuration file MonaServer.ini
+31/12 11:23:34.3  WARN   2564 Server.cpp[78]                No TLS/SSL server protocols, no cert.pem file
+31/12 11:23:34.5  NOTE   2564 Protocols.h[82]               RTMFP server started on 0.0.0.0:1935
+31/12 11:23:34.6  ERROR  2564 Protocols.h[137]              RTMP server, Permission denied (address=192.168.56.1:1935)
+31/12 11:23:34.7  NOTE   2564 Protocols.h[82]               HTTP server started on 0.0.0.0:80
+31/12 11:23:34.7  NOTE   2564 Protocols.h[82]               WS server started on 0.0.0.0:80
+26/01 12:17:09.5  INFO   30348 Application.cpp[134]         MonaServer v2.750
+26/01 12:17:09.5  INFO   30348 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 12:17:09.6  WARN   25396 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 12:17:09.6  NOTE   25396 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+26/01 12:17:09.6  NOTE   25396 Protocols.h[82]              RTMP server started on 192.168.56.1:1935
+26/01 12:17:09.6  NOTE   25396 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+26/01 12:17:09.6  NOTE   25396 Protocols.h[82]              WS server started on 0.0.0.0:80
+26/01 12:19:04.4  INFO   4228 Application.cpp[134]          MonaServer v2.750
+26/01 12:19:04.4  INFO   4228 Application.cpp[136]          Load configuration file MonaServer.ini
+26/01 12:19:04.4  WARN   25880 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 12:19:04.4  NOTE   25880 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+26/01 12:19:04.4  NOTE   25880 Protocols.h[82]              RTMP server started on 192.168.56.1:1935
+26/01 12:19:04.4  NOTE   25880 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+26/01 12:19:04.4  NOTE   25880 Protocols.h[82]              WS server started on 0.0.0.0:80
+26/01 12:21:24.6  INFO   19064 Application.cpp[134]         MonaServer v2.750
+26/01 12:21:24.6  INFO   19064 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 12:21:24.6  WARN   29732 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 12:21:24.6  NOTE   29732 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+26/01 12:21:24.6  NOTE   29732 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+26/01 12:21:24.6  NOTE   29732 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+26/01 12:21:24.6  NOTE   29732 Protocols.h[82]              WS server started on 0.0.0.0:80
+26/01 12:21:38.9  INFO   10648 Application.cpp[134]         MonaServer v2.750
+26/01 12:21:38.9  INFO   10648 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 12:21:39.0  WARN   18760 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 12:21:39.0  NOTE   18760 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+26/01 12:21:39.0  NOTE   18760 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+26/01 12:21:39.0  NOTE   18760 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+26/01 12:21:39.0  NOTE   18760 Protocols.h[82]              WS server started on 0.0.0.0:80
+26/01 12:22:12.9  INFO   4264 Application.cpp[134]          MonaServer v2.750
+26/01 12:22:12.9  INFO   4264 Application.cpp[136]          Load configuration file MonaServer.ini
+26/01 12:22:12.9  WARN   31432 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 12:22:12.9  NOTE   31432 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+26/01 12:22:12.9  NOTE   31432 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+26/01 12:22:12.9  NOTE   31432 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+26/01 12:22:12.9  NOTE   31432 Protocols.h[82]              WS server started on 0.0.0.0:80
+26/01 12:22:39.5  INFO   25968 Application.cpp[134]         MonaServer v2.750
+26/01 12:22:39.5  INFO   25968 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 12:22:39.5  WARN   2772 Server.cpp[78]                No TLS/SSL server protocols, no cert.pem file
+26/01 12:22:39.5  NOTE   2772 Protocols.h[82]               RTMFP server started on 0.0.0.0:1935
+26/01 12:22:39.5  NOTE   2772 Protocols.h[82]               RTMP server started on 0.0.0.0:1935
+26/01 12:22:39.5  NOTE   2772 Protocols.h[82]               HTTP server started on 0.0.0.0:80
+26/01 12:22:39.5  NOTE   2772 Protocols.h[82]               WS server started on 0.0.0.0:80
+26/01 14:29:35.4  INFO   23124 Application.cpp[134]         MonaServer v2.750
+26/01 14:29:35.4  INFO   23124 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 14:29:35.4  WARN   28968 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 14:29:35.4  NOTE   28968 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+26/01 14:30:25.2  INFO   28148 Application.cpp[134]         MonaServer v2.750
+26/01 14:30:25.2  INFO   28148 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 14:30:25.2  WARN   9136 Server.cpp[78]                No TLS/SSL server protocols, no cert.pem file
+26/01 14:30:25.3  NOTE   9136 Protocols.h[82]               RTMP server started on 0.0.0.0:1935
+26/01 14:30:37.4  INFO   32136 Application.cpp[134]         MonaServer v2.750
+26/01 14:30:37.4  INFO   32136 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 14:30:37.4  WARN   22736 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 14:30:37.4  NOTE   22736 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+26/01 14:32:02.7  INFO   11964 Application.cpp[134]         MonaServer v2.750
+26/01 14:32:02.7  INFO   11964 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 14:32:02.7  WARN   22324 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 14:32:02.7  NOTE   22324 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+26/01 14:32:11.8  INFO   32756 Application.cpp[134]         MonaServer v2.750
+26/01 14:32:11.8  INFO   32756 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 14:32:11.8  WARN   24852 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 14:32:11.8  NOTE   24852 Protocols.h[82]              RTMP server started on 172.18.0.1:1943
+26/01 14:32:38.2  INFO   24852 FlashStream.cpp[126]         setBufferTime 3000ms on stream id=1
+26/01 14:32:39.9  INFO   24852 Server.cpp[119]              1 clients
+26/01 14:32:59.7  WARN   24852 TCPSession.cpp[32]           RTMP 1-172.18.0.1:15638, Connection aborted
+26/01 14:33:00.0  INFO   24852 Server.cpp[119]              0 clients
+26/01 14:47:18.0  INFO   15152 Application.cpp[134]         MonaServer v2.750
+26/01 14:47:18.0  INFO   15152 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 14:47:18.0  WARN   7252 Server.cpp[78]                No TLS/SSL server protocols, no cert.pem file
+26/01 14:47:18.0  NOTE   7252 Protocols.h[82]               RTMP server started on 172.18.0.1:1943
+26/01 14:47:26.7  INFO   7252 FlashStream.cpp[126]          setBufferTime 3000ms on stream id=1
+26/01 14:47:28.0  INFO   7252 Server.cpp[119]               1 clients
+26/01 14:47:45.7  WARN   7252 TCPSession.cpp[32]            RTMP 1-172.18.0.1:15853, Connection aborted
+26/01 14:47:46.1  INFO   7252 Server.cpp[119]               0 clients
+26/01 14:54:14.6  INFO   24476 Application.cpp[134]         MonaServer v2.750
+26/01 14:54:14.6  INFO   24476 Application.cpp[136]         Load configuration file MonaServer.ini
+26/01 14:54:14.6  WARN   34040 Server.cpp[78]               No TLS/SSL server protocols, no cert.pem file
+26/01 14:54:14.6  NOTE   34040 Protocols.h[82]              RTMP server started on 172.18.0.1:1943
