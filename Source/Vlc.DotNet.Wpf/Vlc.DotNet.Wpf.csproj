@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+   <PropertyGroup>
+    <Title>Vlc.DotNet.Wpf</Title>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Description>WPF control that hosts the audio/video capabilities of the VLC libraries.</Description>
+    <PackageTags>vlc media wpf</PackageTags>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+   <ItemGroup>
+     <ProjectReference Include="..\Vlc.DotNet.Core.Interops\Vlc.DotNet.Core.Interops.csproj" />
+     <ProjectReference Include="..\Vlc.DotNet.Core\Vlc.DotNet.Core.csproj" />
+   </ItemGroup>
+
+</Project>
